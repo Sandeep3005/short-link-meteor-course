@@ -1,1 +1,4 @@
-Demo app for Short Link Service
+Short Lnk
+
+A demo app for Short Link Service using Meteor and React.
+
